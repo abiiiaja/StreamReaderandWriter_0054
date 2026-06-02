@@ -19,4 +19,5 @@ int main(){
     {
         cout << "default pengecualian diekses kusi" << endl;
     }
+    return 0;
 }
